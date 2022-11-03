@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  dataDeLançamento: 2022-10-27
+  episodios: 1
+  description: MyText
+  direto: MyString
+
+two:
+  nome: MyString
+  dataDeLançamento: 2022-10-27
+  episodios: 1
+  description: MyText
+  direto: MyString
